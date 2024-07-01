@@ -16,4 +16,4 @@ You can find me on:
 * [My website: rajathkumarks.com](https://rajathkumarks.com/)
 * [Twitter as @rajathkumarks](https://twitter.com/rajathkumarks)
 * [GitHub as @analogdata (you are here)](https://github.com/analogdata)
-* [LinkedIn](https://linkedin.com/in/rajathkumarks)
+* [LinkedIn as in/rajathkumarks ](https://linkedin.com/in/rajathkumarks)
