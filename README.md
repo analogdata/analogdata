@@ -13,7 +13,7 @@ If my work interests you or if you have projects that could benefit from my expe
 
 You can find me on:
 
-* [My website: rajathkumarks.com](https://rajathkumarks.com/)
+* [My website: rajath.gurukula.ai](https://rajath.gurukula.ai/)
 * [Twitter as @rajathkumarks](https://twitter.com/rajathkumarks)
 * [GitHub as @analogdata (you are here)](https://github.com/analogdata)
 * [LinkedIn as in/rajathkumarks ](https://linkedin.com/in/rajathkumarks)
