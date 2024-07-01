@@ -1,7 +1,7 @@
 
 ### Hey! I'm Rajath Kumar KS 👋
 
-I'm a software developer from Bangalore, India. 🇮🇳
+I'm a software developer from Bangalore,Bhārat that is India. 🇮🇳
 
 I have been developing applications in **Generative AI (GenAI)**, **Machine Learning (ML)**, and **Deep Learning (DL)** using **Python**, **PyTorch**, **Keras**, **TensorFlow**, **FastAPI**, and more. 🌍
 
