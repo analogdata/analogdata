@@ -9,6 +9,8 @@ I love building innovative solutions with Deep Learning/Machine Learning, distri
 
 I'm currently dedicating a significant portion of my time to developing impactful projects in the AI/ML space 🚀, leveraging my extensive experience and certifications. At the same time, I'm also exploring opportunities to collaborate on exciting projects and contribute to the community. 🌟
 
+I am also 3x Azure Certified and 1x AWS Certified. 🌦️
+
 If my work interests you or if you have projects that could benefit from my expertise, feel free to contact me. 🤓
 
 You can find me on:
